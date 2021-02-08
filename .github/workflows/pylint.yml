@@ -1,0 +1,26 @@
+name: Pylint
+
+on: 
+  push:
+    branches: ['master'] 
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8   
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pylint
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi        
+    - name: lint with pylint
+      run: |
+        pylint -E Hitagi_chan.py
+        pylint -E utils/AnimeMangaUtil.py
+        pylint -E cogs/
