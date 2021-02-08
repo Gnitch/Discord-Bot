@@ -1,0 +1,152 @@
+{
+    "Rem":{
+        "id":1,
+        "name":"Rem",
+        "Anime":"Re-zero",
+        "url":"https://rezero.fandom.com/wiki/Rem"
+    },
+    "Zero Two":{
+        "id":2,        
+        "name":"Zero Two",
+        "Anime":"Darling in the franxx",
+        "url":"https://darling-in-the-franxx.fandom.com/wiki/Zero_Two"
+    },
+    "Mai Sakurajima":{
+        "id":3,        
+        "name":"Mai Sakurajima",
+        "Anime":"Bunny Girl Senpai",
+        "url":"https://great-characters.fandom.com/wiki/Mai_Sakurajima"
+    },    
+    "Megumin":{
+        "id":4,        
+        "name":"Megumin",
+        "Anime":"Konosuba",
+        "url":"https://konosuba.fandom.com/wiki/Megumin"
+    },     
+    "Asuna Yuuki":{
+        "id":5,
+        "name":"Asuna Yuuki",
+        "Anime":"Sword Art Online",
+        "url":"https://sao-abridged.fandom.com/wiki/Asuna_Yuuki"
+    },   
+    "Chitoge Kirisaki":{
+        "id":6,        
+        "name":"Chitoge Kirisaki",
+        "Anime":"Nisekoi",
+        "url":"https://tsuntsun.fandom.com/wiki/Chitoge_Kirisaki"
+    },      
+    "Kosaki Onodera":{
+        "id":7,        
+        "name":"Chitoge Kirisaki",
+        "Anime":"Nisekoi",
+        "url":"https://all-worlds-alliance.fandom.com/wiki/Kosaki_Onodera"
+    },    
+    "Tsubasa Hanekawa":{
+        "id":8,
+        "name":"Tsubasa Hanekawa",
+        "Anime":"Monogatari",
+        "url":"https://bakemonogatari.fandom.com/wiki/Tsubasa_Hanekawa"
+    },           
+    "Hitagi Senjougahara":{
+        "id":9,        
+        "name":"Hitagi Senjougahara",
+        "Anime":"Monogatari",
+        "url":"https://bakemonogatari.fandom.com/wiki/Hitagi_Senjougahara"
+    },     
+    "Lucy Heartfilia":{
+        "id":10,        
+        "name":"Lucy Heartfilia",
+        "Anime":"Fairy tail",
+        "url":"https://fairytail.fandom.com/wiki/Lucy_Heartfilia"
+    },  
+    "Tohru Honda":{
+        "id":11,        
+        "name":"Tohru Honda",
+        "Anime":"Fruits Basket",
+        "url":"https://fruitsbasket.fandom.com/wiki/Tohru_Honda"
+    },      
+    "Raphtalia":{
+        "id":12,        
+        "name":"Raphtalia",
+        "Anime":"Shield hero",
+        "url":"https://shield-hero.fandom.com/wiki/Raphtalia"
+    },     
+    "Yui Hirasawa":{
+        "id":13,        
+        "name":"Yui Hirasawa",
+        "Anime":"K-on",
+        "url":"https://k-on.fandom.com/wiki/Yui_Hirasawa"
+    }, 
+    "Taiga Aisaka":{
+        "id":14,        
+        "name":"Taiga Aisaka",
+        "Anime":"Toradora",
+        "url":"https://tora-dora.fandom.com/wiki/Taiga_Aisaka"
+    },   
+    "Shouko Nishimiya":{
+        "id":15,        
+        "name":"Shouko Nishimiya",
+        "Anime":"Silent voice",
+        "url":"https://remixfavoriteshowandgame.fandom.com/wiki/Shouko_Nishimiya"
+    },       
+    "Fumino Furuhashi":{
+        "id":16,        
+        "name":"Fumino Furuhashi",
+        "Anime":"We never learn",
+        "url":"https://weneverlearn.fandom.com/wiki/Fumino_Furuhashi"
+    },   
+    "Uruka Takemoto":{
+        "id":17,
+        "name":"Uruka Takemoto",
+        "Anime":"We never learn",
+        "url":"https://weneverlearn.fandom.com/wiki/Uruka_Takemoto"
+    },    
+    "Rikka Takanashi":{
+        "id":18,
+        "name":"Rikka Takanashi",
+        "Anime":"Chunibyo",
+        "url":"https://chunibyo.fandom.com/wiki/Rikka_Takanashi"
+    },    
+    "Ai Hayasaka":{
+        "id":19,
+        "name":"Ai Hayasaka",
+        "Anime":"Kaguya-sama",
+        "url":"https://saimoe.fandom.com/wiki/Ai_Hayasaka"
+    },     
+    "Kaji Ryouko":{
+        "id":20,
+        "name":"Kaji Ryouko",
+        "Anime":"Tsuredure Children",
+        "url":"https://tsurezure-children.fandom.com/wiki/Ry%C5%8Dko_Kaji"
+    },             
+    "Ichika Nakano":{
+        "id":21,
+        "name":"Ichika Nakano",
+        "Anime":"Quintuplets",
+        "url":"https://5hanayome.fandom.com/wiki/Ichika_Nakano"
+    },     
+    "Miku Nakano":{
+        "id":22,
+        "name":"Miku Nakano",
+        "Anime":"Quintuplets",
+        "url":"https://5hanayome.fandom.com/wiki/Miku_Nakano"
+    },
+    "Morgiana":{
+        "id":23,        
+        "name":"Morgiana",
+        "Anime":"Magi",
+        "url":"https://kidsnextdoorfanfiction.fandom.com/wiki/Morgiana"
+    },  
+    "Chizuru Mizuhara":{
+        "id":24,
+        "name":"Chizuru Mizuhara",
+        "Anime":"Kanojo, Okarishimasu",
+        "url":"https://kanojo-okarishimasu.fandom.com/wiki/Chizuru_Ichinose"
+    },    
+    "Komi Akira ":{
+        "id":25,        
+        "name":"Komi shouko",
+        "Manga":"Komi-san can't communicate",
+        "url":"https://komisan.fandom.com/wiki/Komi_Shouko"
+    }   
+}
