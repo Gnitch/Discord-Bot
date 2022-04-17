@@ -25,8 +25,7 @@ Top 10 trending manga <br />
 ### an-meme
 Random meme from r/anime_irl
 ### weeb-wallpaper
-Random wallpaper from r/AnimeWallpapers !!ONLY FOR WEEBS/ANIME FANS
+Random wallpaper from r/AnimeWallpapers
 ### wallpaper
 Random wallpaper from r/wallpapers
-### waifu [#member-name]
-Gets a waifu for the member
+
