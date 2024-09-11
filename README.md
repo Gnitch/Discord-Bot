@@ -1,5 +1,5 @@
-# Hitagi-chan
-## A discord bot for Anime/Manga fans
+
+# A discord bot for Anime/Manga fans
 ## To add the bot in your server click [here](https://discord.com/oauth2/authorize?client_id=800964718155005952&permissions=519232&scope=bot)
 ### Prefix is `/`
 ## Commands
